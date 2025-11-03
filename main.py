@@ -1,1 +1,5 @@
-hello world
+print('hello world')
+
+def coolfunction()
+	print ('cool!')
+
